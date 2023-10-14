@@ -20,9 +20,9 @@
         "search_provider": {
           "name": "SearX",
           "keyword": "@searx, @sx",
-          "search_url": "https://searx.org/search?q={searchTerms}",
+          "search_url": "https://127.0.0.1:8080/search?q={searchTerms}",
           "favicon_url": "icons/256.png",
-          "suggest_url": "https://searx.org/autocompleter?q={searchTerms}",
+          "suggest_url": "https://127.0.0.1:8080/autocompleter?q={searchTerms}",
           "is_default": true
         }
     }
